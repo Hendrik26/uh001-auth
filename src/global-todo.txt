@@ -1,0 +1,5 @@
+TODO: install old rxjs version  - npm install rxjs@6.0.0 --save
+
+TODO: install - npm install firebase angularfire2 --save
+
+TODO: install - npm install promise-polyfill --save-exact
