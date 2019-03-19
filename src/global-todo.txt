@@ -1,3 +1,5 @@
+*** general steps for the creation of this app ***
+
 TODO: install old rxjs version  - npm install rxjs@6.0.0 --save [done]
 
 TODO: install - npm install firebase angularfire2 --save [done]
@@ -11,3 +13,7 @@ TODO: configure our app module [done]
 TODO: Creating the Auth Service - ng g s auth  [done]
 
 TODO: Implement the Auth Service Injectable [done]
+
+TODO: Implement the Component Class [done]
+
+TODO: Implement the Component Template [done]
