@@ -4,7 +4,10 @@ TODO: create new project in the firebase console [done]
 
 TODO: enable und configure email/password authentication [done]
 
-TODO: install old rxjs version  - npm install rxjs@6.0.0 --save [done]
+TODO: create new angular cli project in PhpStorm [done]
+
+the actual rxjs version has a bug
+TODO: install older rxjs version  - npm install rxjs@6.0.0 --save [done]
 
 TODO: install - npm install firebase angularfire2 --save [done]
 
